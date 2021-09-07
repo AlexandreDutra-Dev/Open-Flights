@@ -21,8 +21,8 @@ No diretório principal, digite
 - bundle exec rails db:prepare`
 - npm install` or `yarn install`
 - bundle exec rails s`
-- emn outro terminal `./bin/webpack-dev-server` (optional) 
-- em outro terminal `sidekiq` (optional, but necessary for things like password reset emails)
+- emn outro terminal `./bin/webpack-dev-server` (opcional) 
+- em outro terminal `sidekiq` (opcional se quiser resetar os emails)
 
 ```
 Acesse a aplicação em : [http://127.0.0.1:3000](http://127.0.0.1:3000).
